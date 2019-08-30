@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Tareas</title>
-</head>
-<body>
+<?php 
+	include '../partials/header.php';
+?>
 	<a href="create.php">Create a new task</a>
 
-</body>
-</html>
+<?php
+	include '../partials/footer.php';
+?>

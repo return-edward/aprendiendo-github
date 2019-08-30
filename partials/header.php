@@ -10,9 +10,3 @@
 	    <h1>Inicio Github</h1>
 	</header>
 	<main>
-		<a href="pages/tareas/">Tareas</a>
-
-	</main>
-	<footer>&copy;DERECHOS RESERVADOS EDWARD</footer>
-</body>
-</html>

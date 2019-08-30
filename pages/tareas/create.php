@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<?php 
+	include '../partials/header.php';
+?>
+
+
 	<form action="store.php" method="post">
 		<input type="text" name="task">Task 
-		<input type="submit" name="send">Send
+		<input type="submit" name="send">
 	</form>
-
-</body>
-</html>
+<?php
+	include '../partials/footer.php';
+?>
