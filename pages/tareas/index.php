@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Tareas</title>
 </head>
 <body>
+	<a href="create.php">Create a new task</a>
 
 </body>
 </html>
