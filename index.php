@@ -12,5 +12,5 @@
 
 
 <?php 
-	include 'paritals/footer.php';
+	include 'partials/footer.php';
 ?>

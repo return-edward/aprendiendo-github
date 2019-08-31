@@ -1,5 +1,5 @@
 <?php 
-	include '../partials/header.php';
+	include '../../partials/header.php';
 ?>
 
 
@@ -8,5 +8,5 @@
 		<input type="submit" name="send">
 	</form>
 <?php
-	include '../partials/footer.php';
+	include '../../partials/footer.php';
 ?>
